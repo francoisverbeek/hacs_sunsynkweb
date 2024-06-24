@@ -34,7 +34,9 @@
       },
       "acc_battery_discharge": {
         "name": "Accumulated energy discharged from the batteries"
-      }
+      },
+      "pv_voltage": {"name": "Voltage on the solar panel feed"},
+      "pv_current": {"name": "Current intensity on the solar panel feed"}
     }
   }
 }
